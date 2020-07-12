@@ -1,4 +1,4 @@
-### Hi there 👋
+Currently working on a couple of projects; first, a proof of concept a Linked Open Data approach to descriptive bibliography, and second, an attempt to learn how applied category theory can improve the practice of enterprise architecture. There's also scattered repos for a couple of investigations into things like deep learning, astrodynamics, and Monte Carlo simulation. Mostly a Pythonista but Julia-curious.
 
 <!--
 **bradleypallen/bradleypallen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
