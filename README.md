@@ -1,4 +1,4 @@
-Below there are repos addressing a number of topics such as conceptual engineering using large language models (LLMs), detection of hallucinations using LLMs (for the [SemEval-2024 Task-6 SHROOM](https://helsinki-nlp.github.io/shroom/) competition), relational storage for RDF and property graphs, different algorithms for the approximation of &#x1D70B;, the calculation of Texas Hold'Em hand win percentages, and a trainer for John Horton Conway's Doomsday algorithm.
+Below there are repos addressing a number of topics such as conceptual engineering using large language models (LLMs), detection of hallucinations using LLMs (for the [SemEval-2024 Task-6 SHROOM](https://helsinki-nlp.github.io/shroom/) competition), relational storage for RDF and property graphs, the calculation of Texas Hold'Em hand win percentages, and a trainer for John Horton Conway's Doomsday algorithm.
 
 <!--
 **bradleypallen/bradleypallen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
