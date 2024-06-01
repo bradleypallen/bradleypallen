@@ -1,6 +1,6 @@
 [![Brad's LinkedIn page](https://img.shields.io/badge/LinkedIn-bpallen-blue)](https://www.linkedin.com/in/bpallen)
 [![Brad's Github page](https://img.shields.io/github/stars/bradleypallen?style=social)](https://github.com/bradleypallen/)
-[![Brad's Google Scholar page](https://img.shields.io/badge/citations-1178-lightgrey?style=social&logo=googlescholar)](https://scholar.google.com/citations?hl=en&user=cdQ_HrAAAAAJ&view_op=list_works&sortby=pubdate)
+[![Brad's Google Scholar page](https://img.shields.io/badge/citations-1181-lightgrey?style=social&logo=googlescholar)](https://scholar.google.com/citations?hl=en&user=cdQ_HrAAAAAJ&view_op=list_works&sortby=pubdate)
 
 I'm [a technology executive and serial entrepreneur](https://www.linkedin.com/in/bpallen) who is currently Chief Architect at Merit, a Bay Area startup building a verified identity platform. Previously, I was Chief Architect at Elsevier, and before that, founder/CTO at three startups in the Los Angeles area, achieving successful exits in two of the three. I began my career during the 1980s as [one of the very first knowledge engineers of the expert systems era](https://archive.computerhistory.org/resources/access/text/2020/04/102740341-05-01-acc.pdf), after earning a BS in Applied Mathematics at Carnegie Mellon University. I am also [a Guest Researcher in the INtelligent Data Engineering Lab at the University of Amsterdam](https://indelab.org/). At INDE Lab, I am exploring the evolution of the practice of knowledge engineering and the impact of large language models on that evolution.
 
