@@ -1,6 +1,6 @@
 [![Brad's LinkedIn page](https://img.shields.io/badge/LinkedIn-bpallen-blue)](https://www.linkedin.com/in/bpallen)
 [![Brad's Github page](https://img.shields.io/github/stars/bradleypallen?style=social)](https://github.com/bradleypallen/)
-[![Brad's Google Scholar page](https://img.shields.io/badge/citations-1281-lightgrey?style=social&logo=googlescholar)](https://scholar.google.com/citations?hl=en&user=cdQ_HrAAAAAJ&view_op=list_works&sortby=pubdate)
+[![Brad's Google Scholar page](https://img.shields.io/badge/citations-1284-lightgrey?style=social&logo=googlescholar)](https://scholar.google.com/citations?hl=en&user=cdQ_HrAAAAAJ&view_op=list_works&sortby=pubdate)
 
 I'm [a retired technology executive and serial entrepreneur](https://www.linkedin.com/in/bpallen) who is currently [a doctoral candidate in the INtelligent Data Engineering Lab at the University of Amsterdam](https://indelab.org/). Previously, I was Chief Architect at Elsevier, and before that, founder/CTO at three startups in the Los Angeles area, achieving successful exits in two of the three. I began my career during the 1980s as [one of the first knowledge engineers of the expert systems era](https://archive.computerhistory.org/resources/access/text/2020/04/102740341-05-01-acc.pdf), after earning a BS in Applied Mathematics at Carnegie Mellon University. At INDElab, I am exploring the future of knowledge engineering in an era of large language models.
 
